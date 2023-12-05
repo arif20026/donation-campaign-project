@@ -1,0 +1,136 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/dm8btQz/1.png",
+        "title": "Education for All",
+        "category": "Education",
+        "category_button_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_color": "#0052FF",
+        "description": "Support the education of underprivileged children and help them build a better future.",
+        "price": 20
+      }
+      ,
+      {
+        "id": 2,
+        "picture": "https://i.ibb.co/5KBShY0/2-clean-water.jpg",
+        "title": "Clean Water Initiative",
+        "category": "Environment",
+        "category_button_bg": "#FF000033",
+        "card_bg": "#FF000026",
+        "text_color": "#FF0000",
+        "description": "Provide access to clean and safe drinking water to communities in need.",
+        "price": 30
+      },
+      {
+        "id": 3,
+        "picture": "https://i.ibb.co/hyjRCdw/3-healthcare.png",
+        "title": "Healthcare for All",
+        "category": "Health",
+        "category_button_bg": "#00FF0033",
+        "card_bg": "#00FF0026",
+        "text_color": "#00FF00",
+        "description": "Support medical facilities and healthcare services for those in need.",
+        "price": 25
+      },
+      {
+        "id": 4,
+        "picture": "https://i.ibb.co/0y99c0m/4-foodsecurity.jpg",
+        "title": "Food Security Project",
+        "category": "Hunger",
+        "category_button_bg": "#FFFF0033",
+        "card_bg": "#FFFF0026",
+        "text_color": "#FFFF00",
+        "description": "Help combat hunger by supporting programs that provide food to vulnerable populations.",
+        "price": 15
+      },
+      {
+        "id": 5,
+        "picture": "https://i.ibb.co/L5Vd3Cy/5-animal-welfare-fund.png",
+        "title": "Animal Welfare Fund",
+        "category": "Animals",
+        "category_button_bg": "#FFA50033",
+        "card_bg": "#FFA50026",
+        "text_color": "#FFA500",
+        "description": "Contribute to the well-being and protection of animals through various initiatives.",
+        "price": 20
+      },
+      {
+        "id": 6,
+        "picture": "https://i.ibb.co/n0H75RC/6-community-development.png",
+        "title": "Community Development",
+        "category": "Community",
+        "category_button_bg": "#FF00FF33",
+        "card_bg": "#FF00FF26",
+        "text_color": "#FF00FF",
+        "description": "Support projects that foster sustainable development and empowerment in communities.",
+        "price": 30
+      },
+      {
+        "id": 7,
+        "picture": "https://i.ibb.co/bWRyYgc/7-innovation-in-technology.jpg",
+        "title": "Innovation in Technology",
+        "category": "Technology",
+        "category_button_bg": "#00800033",
+        "card_bg": "#00800026",
+        "text_color": "#008000",
+        "description": "Promote innovation in technology and support initiatives that drive progress.",
+        "price": 25
+      },
+      {
+        "id": 8,
+        "picture": "https://i.ibb.co/THP21dv/disaster-relief-fund.jpg",
+        "title": "Disaster Relief Fund",
+        "category": "Disaster Relief",
+        "category_button_bg": "#8B000033",
+        "card_bg": "#8B000026",
+        "text_color": "#8B0000",
+        "description": "Support relief efforts for communities affected by natural disasters and emergencies.",
+        "price": 40
+      },
+      {
+        "id": 9,
+        "picture": "https://i.ibb.co/mN3By3s/cultural-heritage-preservation.jpg",
+        "title": "Cultural Heritage Preservation",
+        "category": "Arts",
+        "category_button_bg": "#A52A2A33",
+        "card_bg": "#A52A2A26",
+        "text_color": "#A52A2A",
+        "description": "Preserve and promote the cultural heritage of communities through various projects and initiatives.",
+        "price": 20
+      },
+      {
+        "id": 10,
+        "picture": "https://i.ibb.co/xKbyKdm/technology-for-education.jpg",
+        "title": "Technology for Education",
+        "category": "Education",
+        "category_button_bg": "#9400D333",
+        "card_bg": "#9400D326",
+        "text_color": "#9400D3",
+        "description": "Support the integration of technology in education for a more effective learning experience.",
+        "price": 30
+      },
+      {
+        "id": 11,
+        "picture": "https://i.ibb.co/1ZnJjmY/green-energy-advocacy.jpg",
+        "title": "Green Energy Advocacy",
+        "category": "Environment",
+        "category_button_bg": "#00FF0033",
+        "card_bg": "#00FF0026",
+        "text_color": "#00FF00",
+        "description": "Promote the use of sustainable and green energy sources for a healthier planet.",
+        "price": 35
+      },
+      {
+        "id": 12,
+        "picture": "https://i.ibb.co/DRjmdc9/Youth-empowerment-program.jpg",
+        "title": "Youth Empowerment Program",
+        "category": "Youth",
+        "category_button_bg": "#8A2BE233",
+        "card_bg": "#8A2BE226",
+        "text_color": "#8A2BE2",
+        "description": "Empower and mentor the youth to help them reach their full potential in various fields.",
+        "price": 25
+      }
+  ]
+  
