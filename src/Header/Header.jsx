@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className="navbar bg-base-100 justify-between items-center">
+        <div className="navbar bg-base-100 justify-between items-center px-36">
             <img src={Logo} alt="" />
             <div className="navbar-start">
                 <div className="dropdown">
