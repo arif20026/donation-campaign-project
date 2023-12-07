@@ -5,7 +5,7 @@
 
 - After clicking donate button a toast will be shown and you can see all of your donations at donation page.
 
-- At statistics page you will a pie chart indicating your donation vs total donation
+- At statistics page you will see a pie chart indicating your donation vs total donation.
 
 
 

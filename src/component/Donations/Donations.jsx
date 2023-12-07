@@ -31,7 +31,7 @@ const Donations = () => {
 
 
 
-            <div className="grid grid-cols-2 gap-6  ">
+            <div className="grid lg:grid-cols-2 gap-6  ">
 
                 {
                     donationCards.slice(0, dataLength).map(donation => <div key={donation.id} className={"flex  rounded-lg"} style={{ backgroundColor: `${donation.card_bg}` }} >
