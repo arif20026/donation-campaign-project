@@ -26,11 +26,10 @@ const Donations = () => {
 
 
     return (
-        <div className="px-36">
+        <div className="px-36 my-10">
 
 
 
-            <p> Donations :{donationCards.length}</p>
 
             <div className="grid grid-cols-2 gap-6  ">
 
@@ -52,16 +51,26 @@ const Donations = () => {
             </div>
 
 
+            <div className="flex justify-center items-center my-10">
 
 
-            <div className={` ${ donationCards.length <= 4 || buttonClicked? 'hidden' : ''}`}>
-                <button onClick={handleShowMoreClick} className="btn btn-primary  ">Show more</button>
+            <div className={` ${ donationCards.length <= 4 || buttonClicked? 'hidden' : ''}` }  >
+                <button onClick={handleShowMoreClick} className="btn bg-[#009444] text-white  ">Show more</button>
             </div>
+
+            </div>
+
+
+
+
+           
 
 
         </div>
     );
 };
+
+
 
 
 

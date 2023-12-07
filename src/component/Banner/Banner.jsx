@@ -13,7 +13,7 @@ const Banner = () => {
             <h2 className="text-5xl font-bold relative z-10">I Grow By Helping People In Need</h2>
             <div className="join m-10 pb-72 relative z-10">
                 <input className="input input-bordered join-item" placeholder="Search here..." />
-                <button className="btn join-item">Search</button>
+                <button className="btn join-item bg-[#FF444A] text-white">Search</button>
             </div>
         </div>
     );
